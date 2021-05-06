@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240831686387",
+    "project_id": "yr-youramigos",
+    "storage_bucket": "yr-youramigos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240831686387:android:873d9f385bfbfc00ad3986",
+        "android_client_info": {
+          "package_name": "com.example.yr_youramigos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240831686387-9bcf6tcj5tcfdgpl5a62h8u47st6tno4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0abab4wS_iYOpiIFmInFohwqaOJXppo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240831686387-9bcf6tcj5tcfdgpl5a62h8u47st6tno4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
